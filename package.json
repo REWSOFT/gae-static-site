@@ -1,0 +1,14 @@
+{
+  "name": "rewsoft-site",
+  "private": true,
+  "description": "rewsoft-site",
+  "dependencies": {
+    "grunt": "*",
+    "grunt-grunt": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-uglify": "*",
+    "load-grunt-configs": "*",
+    "grunt-shell": "*",
+    "load-grunt-tasks": "*"
+  }
+}
